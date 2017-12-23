@@ -1,0 +1,20 @@
+./positives/pen_2.jpg 1 527 1218 1970 1970
+./positives/pen_3.jpg 1 520 897 2089 2089
+./positives/pen_1.jpg 1 503 971 1251 1251
+./positives/B3_8.jpg 1 1322 1362 380 380
+./positives/pen_4.jpg 1 429 768 2037 2037
+./positives/pen_5.jpg 1 0 940 2778 2778
+./positives/B3_9.jpg 1 653 667 928 928
+./positives/B1_9.jpg 1 1020 1020 984 984
+./positives/B2_9.jpg 2 1358 1063 1043 1043 921 1761 907 907
+./positives/B2_4.jpg 3 1144 419 573 573 2687 913 698 698 1637 1172 698 698
+./positives/B2_5.jpg 1 607 193 750 750
+./positives/B2_7.jpg 1 1217 1200 960 960
+./positives/B2_6.jpg 4 2616 1267 466 466 2143 1540 523 523 1595 1589 570 570 1988 71 501 501
+./positives/B3_7.jpg 1 1434 1239 759 759
+./positives/B1_4.jpg 1 329 502 2466 2466
+./positives/B3_6.jpg 1 1973 1080 569 569
+./positives/B3_5.jpg 1 808 0 651 651
+./positives/B1_3.jpg 1 1281 756 1239 1239
+./positives/B3_2.jpg 1 972 1418 734 734
+./positives/B3_3.jpg 1 0 1174 911 911

@@ -1,0 +1,27 @@
+./positives/B1_8.jpg 1 236 79 2425 2425
+./positives/B2_10.jpg 2 785 1166 1857 1857 467 282 1289 1289
+./positives/Bottle_8.jpg 1 0 21 768 768
+./positives/Bottle_9.jpg 1 30 41 614 614
+./positives/B2_8.jpg 1 1138 1322 1691 1691
+./positives/B2_9.jpg 1 0 609 1611 1611
+./positives/Bottle_7.jpg 1 168 21 564 564
+./positives/B2_5.jpg 2 1270 105 844 844 674 744 989 989
+./positives/Bottle_6.jpg 1 29 57 738 738
+./positives/Bottle_4.jpg 1 384 384 2256 2256
+./positives/B2_7.jpg 2 0 78 1821 1821 1981 0 1858 1858
+./positives/B2_6.jpg 4 2363 200 880 880 564 0 847 847 149 656 924 924 730 1236 924 924
+./positives/Bottle_5.jpg 1 0 0 3322 3322
+./positives/Bottle_1.jpg 1 0 0 2679 2679
+./positives/B2_2.jpg 1 0 0 2814 2814
+./positives/Bottle_2.jpg 1 1095 154 1863 1863
+./positives/Bottle_3.jpg 1 367 416 2288 2288
+./positives/Bottle_13.jpg 1 28 82 697 697
+./positives/Bottle_12.jpg 1 86 147 681 681
+./positives/B3_6.jpg 1 652 800 1000 1000
+./positives/B3_10.jpg 1 948 426 1608 1608
+./positives/Bottle_10.jpg 1 0 0 742 742
+./positives/Bottle_11.jpg 1 0 0 835 835
+./positives/B3_5.jpg 1 359 833 1255 1255
+./positives/B3_1.jpg 1 1920 253 1907 1907
+./positives/Bottle_15.jpg 1 0 0 866 866
+./positives/Bottle_14.jpg 1 111 41 630 630

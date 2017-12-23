@@ -1,0 +1,26 @@
+./positives/B3_8.jpg 1 903 1771 378 378
+./positives/B3_9.jpg 1 410 1755 1269 1269
+./positives/scissor_2.jpg 1 352 352 2331 2331
+./positives/scissor_3.jpg 1 574 980 2070 2070
+./positives/scissor_1.jpg 1 1756 780 1671 1671
+./positives/scissor_4.jpg 1 0 0 800 800
+./positives/scissor_5.jpg 1 0 0 1815 1815
+./positives/B2_8.jpg 1 188 1190 998 998
+./positives/scissor_7.jpg 1 33 206 648 648
+./positives/scissor_6.jpg 1 138 200 445 445
+./positives/B2_4.jpg 2 2202 1180 515 515 1033 952 887 887
+./positives/B2_7.jpg 1 1525 616 632 632
+./positives/scissor_8.jpg 1 0 128 768 768
+./positives/scissor_9.jpg 1 48 176 626 626
+./positives/B2_6.jpg 2 1368 0 667 667 2821 976 408 408
+./positives/B2_3.jpg 1 427 1287 1736 1736
+./positives/B3_7.jpg 1 1288 0 764 764
+./positives/scissor_12.jpg 1 156 219 456 456
+./positives/scissor_11.jpg 1 143 229 491 491
+./positives/B3_4.jpg 1 1583 1190 969 969
+./positives/B3_10.jpg 1 367 1635 1145 1145
+./positives/B1_7.jpg 1 136 425 2353 2352
+./positives/scissor_10.jpg 1 40 147 610 610
+./positives/B1_10.jpg 1 0 0 1238 1238
+./positives/B3_2.jpg 1 1193 378 976 976
+./positives/B3_3.jpg 1 1233 1512 1265 1265
