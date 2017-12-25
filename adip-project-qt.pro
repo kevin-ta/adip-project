@@ -1,10 +1,7 @@
-SOURCES += \
-    main.cpp \
-    customform.cpp
-
 QT += widgets
 
 INCLUDEPATH += /usr/local/include/opencv2
+
 LIBS += -L/usr/local/lib \
         -lopencv_core \
         -lopencv_imgproc \
@@ -20,7 +17,9 @@ LIBS += -L/usr/local/lib \
         -lopencv_flann \
         -lopencv_nonfree \
 
-RESOURCES +=
+SOURCES += \
+    main.cpp \
+    customform.cpp
 
 HEADERS += \
     cvimagewidget.hpp \
