@@ -1,0 +1,153 @@
+Ressources /B1/B1_1.jpg
+Execution time of the background cutting: 33.272 ms
+Execution time of the object detection by the model: 13.306 ms
+Total execution time: 46.578 ms
+
+Ressources /B1/B1_2.jpg
+Execution time of the background cutting: 50.046 ms
+Execution time of the object detection by the model: 20.608 ms
+Total execution time: 70.654 ms
+
+Ressources /B1/B1_3.jpg
+Execution time of the background cutting: 1144.96 ms
+Execution time of the object detection by the model: 248.1 ms
+Total execution time: 1393.06 ms
+
+Ressources /B1/B1_4.jpg
+Execution time of the background cutting: 717.457 ms
+Execution time of the object detection by the model: 962.889 ms
+Total execution time: 1680.35 ms
+
+Ressources /B1/B1_5.jpg
+Execution time of the background cutting: 342.747 ms
+Execution time of the object detection by the model: 956.652 ms
+Total execution time: 1299.4 ms
+
+Ressources /B1/B1_6.jpg
+Execution time of the background cutting: 477.358 ms
+Execution time of the object detection by the model: 572.292 ms
+Total execution time: 1049.65 ms
+
+essources /B1/B1_7.jpg
+Execution time of the background cutting: 355.661 ms
+Execution time of the object detection by the model: 300.497 ms
+Total execution time: 656.158 ms
+
+Ressources /B1/B1_8.jpg
+Execution time of the background cutting: 397.856 ms
+Execution time of the object detection by the model: 453.931 ms
+Total execution time: 851.787 ms
+
+Ressources /B1/B1_9.jpg
+Execution time of the background cutting: 425.167 ms
+Execution time of the object detection by the model: 801.317 ms
+Total execution time: 1226.48 ms
+
+Ressources /B1/B1_10.jpg
+Execution time of the background cutting: 55.518 ms
+Execution time of the object detection by the model: 29.859 ms
+Total execution time: 85.377 ms
+
+*****************************************************************************
+
+Ressources /B2/B2_1.jpg
+Execution time of the background cutting: 196.213 ms
+Execution time of the object detection by the model: 247.194 ms
+Total execution time: 443.407 ms
+
+Ressources /B2/B2_2.jpg
+Execution time of the background cutting: 430.21 ms
+Execution time of the object detection by the model: 716.227 ms
+Total execution time: 1146.44 ms
+
+Ressources /B2/B2_3.jpg
+Execution time of the background cutting: 428.285 ms
+Execution time of the object detection by the model: 1647.06 ms
+Total execution time: 2075.34 ms
+
+Ressources /B2/B2_4.jpg
+Execution time of the background cutting: 327.291 ms
+Execution time of the object detection by the model: 472.26 ms
+Total execution time: 799.551 ms
+
+Ressources /B2/B2_5.jpg
+Execution time of the background cutting: 326.808 ms
+Execution time of the object detection by the model: 564.002 ms
+Total execution time: 890.81 ms
+
+Ressources /B2/B2_6.jpg
+Execution time of the background cutting: 298.467 ms
+Execution time of the object detection by the model: 344.282 ms
+Total execution time: 642.749 ms
+
+Ressources /B2/B2_7.jpg
+Execution time of the background cutting: 326.5 ms
+Execution time of the object detection by the model: 415.133 ms
+Total execution time: 741.633 ms
+
+Ressources /B2/B2_8.jpg
+Execution time of the background cutting: 457.115 ms
+Execution time of the object detection by the model: 1011.14 ms
+Total execution time: 1468.26 ms
+
+Ressources /B2/B2_9.jpg
+Execution time of the background cutting: 429.719 ms
+Execution time of the object detection by the model: 617.23 ms
+Total execution time: 1046.95 ms
+
+Ressources /B2/B2_10.jpg
+Execution time of the background cutting: 374.558 ms
+Execution time of the object detection by the model: 672.952 ms
+Total execution time: 1047.51 ms
+
+*****************************************************************************
+
+Ressources /B3/B3_1.jpg
+Execution time of the background cutting: 290.257 ms
+Execution time of the object detection by the model: 279.109 ms
+Total execution time: 569.366 ms
+
+Ressources /B3/B3_2.jpg
+Execution time of the background cutting: 446.036 ms
+Execution time of the object detection by the model: 1748.8 ms
+Total execution time: 2194.83 ms
+
+Ressources /B3/B3_3.jpg
+Execution time of the background cutting: 451.429 ms
+Execution time of the object detection by the model: 599.045 ms
+Total execution time: 1050.47 ms
+
+Ressources /B3/B3_4.jpg
+Execution time of the background cutting: 331.182 ms
+Execution time of the object detection by the model: 516.865 ms
+Total execution time: 848.047 ms
+
+Ressources /B3/B3_5.jpg
+Execution time of the background cutting: 322.45 ms
+Execution time of the object detection by the model: 878.753 ms
+Total execution time: 1201.2 ms
+
+Ressources /B3/B3_6.jpg
+Execution time of the background cutting: 356.258 ms
+Execution time of the object detection by the model: 489.717 ms
+Total execution time: 845.975 ms
+
+Ressources /B3/B3_7.jpg
+Execution time of the background cutting: 354.129 ms
+Execution time of the object detection by the model: 1433.53 ms
+Total execution time: 1787.66 ms
+
+Ressources /B3/B3_8.jpg
+Execution time of the background cutting: 351.281 ms
+Execution time of the object detection by the model: 598.891 ms
+Total execution time: 950.172 ms
+
+Ressources /B3/B3_9.jpg
+Execution time of the background cutting: 353.58 ms
+Execution time of the object detection by the model: 448.917 ms
+Total execution time: 802.497 ms
+
+Ressources /B3/B3_10.jpg
+Execution time of the background cutting: 382.094 ms
+Execution time of the object detection by the model: 596.358 ms
+Total execution time: 978.452 ms
